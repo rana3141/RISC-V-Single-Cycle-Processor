@@ -1,4 +1,4 @@
-Single Cycle RISV Processor
+Single Cycle RV32I compliant RISC-V Processor using System Verilog
 
 Block Diagram:
 
